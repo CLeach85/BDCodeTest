@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{51A515A3-DF23-4BBD-922B-0BF7E8878372}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="JSONPlaceholder.Tests/Steps/CommentSteps.cs">
+    <Files>
+      <File FileName="JSONPlaceholder.Tests/Steps/CommentSteps.cs" Line="9" Column="1" />
+      <File FileName="JSONPlaceholder.Tests/Steps/PostSteps.cs" />
+      <File FileName="JSONPlaceholder.Tests/Interfaces/IResponse.cs" />
+      <File FileName="JSONPlaceholder.Tests/API/APICaller.cs" />
+      <File FileName="JSONPlaceholder.Tests/API/APIContext.cs" />
+      <File FileName="JSONPlaceholder.Tests/API/Responses/PostResponse.cs" />
+      <File FileName="JSONPlaceholder.Tests/API/Responses/CommentResponse.cs" />
+      <File FileName="JSONPlaceholder.Tests/Steps/SharedSteps.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JSONPlaceholder" expanded="True">
+            <Node name="JSONPlaceholder.Tests" expanded="True">
+              <Node name="Steps" expanded="True" />
+              <Node name="NOTES.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="JSONPlaceholder" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JSONPlaceholder.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
