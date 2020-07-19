@@ -2,8 +2,8 @@
 
 ## Scope
 The following 2 API resources are under test
-GET /posts/1
-GET /posts/1/comments
+- GET /posts/1
+- GET /posts/1/comments
 
 ## Out of Scope
 ### Route
